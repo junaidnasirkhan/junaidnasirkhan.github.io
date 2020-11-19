@@ -2,9 +2,9 @@
 
 // CHANGE THE VARIABLES BELOW
 
-$EmailFrom = "yourmail@mail.com";
-$EmailTo = "yourmail@mail.com";
-$Subject = "Contact Form Submission";
+$EmailFrom = "junaidkhangec@gail.com";
+$EmailTo = "junaidkhangec@gail.com";
+$Subject = "Resume Contact Form Submission";
 
 $Name = Trim(stripslashes($_POST['Name'])); 
 $Tel = Trim(stripslashes($_POST['Tel'])); 
